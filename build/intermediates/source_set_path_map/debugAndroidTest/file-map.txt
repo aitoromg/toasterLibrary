@@ -1,0 +1,8 @@
+com.sds.toasterlibrary.test.toasterLibrary-coordinatorlayout-1.0.0-0 /Users/n335385/.gradle/caches/transforms-3/040c5f1f18707b239259b1cc44a71dc6/transformed/coordinatorlayout-1.0.0/res
+com.sds.toasterlibrary.test.toasterLibrary-core-1.0.0-1 /Users/n335385/.gradle/caches/transforms-3/04e4281b223c1fc977046358b3b092fc/transformed/core-1.0.0/res
+com.sds.toasterlibrary.test.toasterLibrary-appcompat-1.0.0-2 /Users/n335385/.gradle/caches/transforms-3/d83425451fc0d2ac1b142d441b769d42/transformed/appcompat-1.0.0/res
+com.sds.toasterlibrary.test.toasterLibrary-androidTest-3 /Users/n335385/Documents/WORKSPACE/android-toast/toasterLibrary/build/generated/res/resValues/androidTest/debug
+com.sds.toasterlibrary.test.toasterLibrary-mergeDebugAndroidTestResources-4 /Users/n335385/Documents/WORKSPACE/android-toast/toasterLibrary/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.sds.toasterlibrary.test.toasterLibrary-mergeDebugAndroidTestResources-5 /Users/n335385/Documents/WORKSPACE/android-toast/toasterLibrary/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.sds.toasterlibrary.test.toasterLibrary-merged_res-6 /Users/n335385/Documents/WORKSPACE/android-toast/toasterLibrary/build/intermediates/merged_res/debugAndroidTest
+com.sds.toasterlibrary.test.toasterLibrary-packaged_res-7 /Users/n335385/Documents/WORKSPACE/android-toast/toasterLibrary/build/intermediates/packaged_res/debug

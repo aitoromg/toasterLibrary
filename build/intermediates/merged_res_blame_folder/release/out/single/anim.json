@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_slide_out_bottom.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_tooltip_exit.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_popup_enter.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_slide_in_top.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_popup_exit.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_slide_out_top.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_slide_in_bottom.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_fade_out.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_fade_in.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "com.sds.toasterlibrary.toasterLibrary-merged_res-6:/anim/abc_tooltip_enter.xml",
+        "source": "com.sds.toasterlibrary.toasterLibrary-appcompat-1.0.0-2:/anim/abc_tooltip_enter.xml"
+    }
+]

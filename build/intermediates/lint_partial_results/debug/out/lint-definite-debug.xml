@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.1.2" type="incidents">
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.appcompat:appcompat than 1.0.0 is available: 1.6.1">
+        <fix-replace
+            description="Change to 1.6.1"
+            family="Update versions"
+            oldString="1.0.0"
+            replacement="1.6.1"/>
+        <location
+            file="${:toasterLibrary*projectDir}/build.gradle.kts"
+            line="33"
+            column="21"
+            startOffset="728"
+            endLine="33"
+            endColumn="55"
+            endOffset="762"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.test.ext:junit than 1.1.1 is available: 1.1.5">
+        <fix-replace
+            description="Change to 1.1.5"
+            family="Update versions"
+            oldString="1.1.1"
+            replacement="1.1.5"/>
+        <location
+            file="${:toasterLibrary*projectDir}/build.gradle.kts"
+            line="35"
+            column="32"
+            startOffset="841"
+            endLine="35"
+            endColumn="61"
+            endOffset="870"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.test.espresso:espresso-core than 3.1.0 is available: 3.5.1">
+        <fix-replace
+            description="Change to 3.5.1"
+            family="Update versions"
+            oldString="3.1.0"
+            replacement="3.5.1"/>
+        <location
+            file="${:toasterLibrary*projectDir}/build.gradle.kts"
+            line="36"
+            column="32"
+            startOffset="904"
+            endLine="36"
+            endColumn="74"
+            endOffset="946"/>
+    </incident>
+
+</incidents>

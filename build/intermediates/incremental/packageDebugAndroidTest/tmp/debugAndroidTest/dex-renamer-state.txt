@@ -1,0 +1,13 @@
+#Tue Nov 07 13:34:40 CET 2023
+base.0=/Users/n335385/Documents/WORKSPACE/android-toast/toasterLibrary/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/n335385/Documents/WORKSPACE/android-toast/toasterLibrary/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/5/classes.dex
+base.2=/Users/n335385/Documents/WORKSPACE/android-toast/toasterLibrary/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.3=/Users/n335385/Documents/WORKSPACE/android-toast/toasterLibrary/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/5/classes.dex
+path.0=classes.dex
+path.1=5/classes.dex
+path.2=0/classes.dex
+path.3=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
